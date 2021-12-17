@@ -38,11 +38,14 @@
                 style="transform: translateX(0px) translateY(-4px);background: #ed86b9;padding-top: 119px;">
                 <div class="container">
                     <!-- Start: portfolio heading -->
-                    <div class="heading" style="margin-top: -305px;height: 132px;margin-right: 117px;"><img
-                            class="img-fluid" data-bs-toggle="tooltip" data-bss-tooltip="" id="PlayHere2HelpTitle"
+                    <div class="heading" style="margin-top: -305px;height: 132px;margin-right: 117px;">
+                        <img class="img-fluid" data-bs-toggle="tooltip" data-bss-tooltip="" id="PlayHere2HelpTitle"
                             src="../assets/img/speaker%20icon/speaker.png" alt="Play Audio" title="Hear Title"
-                            style="transform: translateX(-302px) translateY(130px) scale(0.30);">
-                        <h1><strong>#Here 2 Help</strong></h1><audio class="invisible" id="AudioHere2HelpTitle"></audio>
+                            style="transform: translateX(-302px) translateY(130px) scale(0.30);" tabindex="1"
+                            onclick="playaudiotitle()">
+                        <h1><strong>#Here 2 Help</strong></h1><audio class="invisible" id="AudioHere2HelpTitle">
+                            <source src="../assets/audio/Here2HelpTitle.wav">
+                        </audio>
                     </div><!-- End: portfolio heading -->
                 </div>
                 <div class="container" id="ChatBot"
@@ -75,6 +78,7 @@
         <script src="../assets/js/Play%20Audio/Index_Audio.js"></script>
         <script src="../assets/js/script.js"></script>
         <script src="../assets/js/theme.js"></script>
+        <script src="../assets/js/Play Audio/Heare2Help.js"></script>
     </body>
 
 </html>

@@ -33,14 +33,18 @@
         </nav>
         <main class="page cv-page">
             <section class="portfolio-block block-intro border-bottom" style="border-style: none;">
-                <div class="container" style="margin: 7px;margin-bottom: -131%;height: 20%;"><img
-                        data-bs-toggle="tooltip" data-bss-tooltip="" id="PlayFAQTitle"
+                <div class="container" style="margin: 7px;margin-bottom: -131%;height: 20%;">
+                    <img data-bs-toggle="tooltip" data-bss-tooltip="" id="PlayFAQTitle"
                         src="../assets/img/speaker%20icon/speaker.png"
-                        style="transform: translateX(-99px) translateY(-159px) scale(0.34);" title="Hear FAQ title">
+                        style="transform: translateX(-99px) translateY(-159px) scale(0.34);" title="Hear FAQ title"
+                        tabindex="1" onclick="PlayFAQtitle()">
                     <h1 class="display-1 font-monospace"
                         style="transform: translateX(36px) translateY(-294px);font-size: 50px;"><strong>FAQ</strong>
-                    </h1><audio class="invisible" id="AudioFAQtitle"
-                        style="transform: translate(-426px) translateX(453px) translateY(-279px);"></audio>
+                    </h1>
+                    <audio class="invisible" id="AudioFAQtitle"
+                        style="transform: translate(-426px) translateX(453px) translateY(-279px);">
+                        <source src="../assets/audio/FAQ title.wav">
+                    </audio>
                 </div>
             </section><!-- Start: Main FAQ Questions -->
             <section style="height: 205px;">
@@ -51,7 +55,7 @@
                         style="transform: translateX(-167px) translateY(306px) scale(0.22);" alt="Play Audio"
                         title="Hear FAQ Content">
                     <div class="accordion" role="tablist" id="accordion-1">
-                        <div class="accordion-item">
+                        <div class="accordion-item" tabindex="1" onclick="PlayFAQQuestion()">
                             <h2 class="accordion-header" role="tab"><button class="accordion-button collapsed"
                                     data-bs-toggle="collapse" data-bs-target="#accordion-1 .item-1"
                                     aria-expanded="false" aria-controls="accordion-1 .item-1">Where can I find ABC
@@ -135,7 +139,9 @@
                                 </div>
                             </div>
                         </div>
-                    </div><audio class="invisible" id="AudioFAQ"></audio>
+                    </div><audio class="invisible" id="AudioFAQ">
+                        <source src="../assets/audio/FAQ Question.wav">
+                    </audio>
                 </div>
             </section><!-- End: Main FAQ Questions -->
         </main>
@@ -157,6 +163,10 @@
         <script src="../assets/js/Play%20Audio/Index_Audio.js"></script>
         <script src="../assets/js/script.js"></script>
         <script src="../assets/js/theme.js"></script>
+        <script src="../assets/js/Play Audio/FAQ.JS">
+
+        </script>
+
     </body>
 
 </html>
