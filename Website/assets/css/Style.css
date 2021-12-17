@@ -1,0 +1,13 @@
+#Here2Help:focus {
+  background-color: blue;
+  color: black;
+}
+
+#ABCCollege:focus {
+  outline: 2px solid black;
+}
+
+a:focus {
+  outline: 2px solid black;
+}
+
