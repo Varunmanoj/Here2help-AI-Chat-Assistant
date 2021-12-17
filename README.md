@@ -6,7 +6,7 @@ A prospective student usually explores various colleges and institutes with a wi
 My AI Chatbot #Here2Help can answer these questions immediately, so students can avoid reading long FAQ documents or enquiring with multiple people or scrolling webpages in the college website. Students can simply ask their questions to the Chatbot and get an instant answer. This instant response improves student experience and makes life a lot easier for students and staff members.
 A link to Assistant #Here2Help would be given on a demo college (ABC College) website. 
 ![image](https://user-images.githubusercontent.com/66109641/146576732-141f193a-a16f-4a99-bbfd-467cb343b863.png)
----
+
 ## Features
 This project is aimed to implement a Web Based ChatBot with the help of various Azure Services. This bot would help communicate in natural language with the users and help them answer the various frequent questions that students have automatically. 
 Also, since I am a visually impaired person, I have focused on making the solution accessible to all users.
