@@ -5,6 +5,7 @@ When I joined Senior College, I found it difficult to get answers to simple ques
 A prospective student usually explores various colleges and institutes with a wide range of questions. “How can I register?”, “What courses are available?”, “Where is the college located?” and many other such queries. A student who is already enrolled in the college would also have different queries like “What is the syllabus?”, “What is the timetable?”, “Where is the holiday list?” etc.   
 My AI Chatbot #Here2Help can answer these questions immediately, so students can avoid reading long FAQ documents or enquiring with multiple people or scrolling webpages in the college website. Students can simply ask their questions to the Chatbot and get an instant answer. This instant response improves student experience and makes life a lot easier for students and staff members.
 A link to Assistant #Here2Help would be given on a demo college (ABC College) website. 
+
 ![image](https://user-images.githubusercontent.com/66109641/146576732-141f193a-a16f-4a99-bbfd-467cb343b863.png)
 
 ## Features
