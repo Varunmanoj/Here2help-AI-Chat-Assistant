@@ -39,4 +39,4 @@ HTML is the latest and most enhanced version of HTML.
 ### CSS
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. 
 ## Architecture Diagram
-
+![Architecture Diagram](https://user-images.githubusercontent.com/66109641/148674922-e4a3dc1d-a79f-4a55-b79a-6dd762b94b65.png)
