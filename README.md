@@ -6,7 +6,7 @@ A prospective student usually explores various colleges and institutes with a wi
 My AI Chatbot #Here2Help can answer these questions immediately, so students can avoid reading long FAQ documents or enquiring with multiple people or scrolling webpages in the college website. Students can simply ask their questions to the Chatbot and get an instant answer. This instant response improves student experience and makes life a lot easier for students and staff members.
 A link to Assistant #Here2Help would be given on a demo college (ABC College) website. 
 
-![image](https://user-images.githubusercontent.com/66109641/146576732-141f193a-a16f-4a99-bbfd-467cb343b863.png)
+![# Here 2 Help Page with Chat bot](https://user-images.githubusercontent.com/66109641/146576732-141f193a-a16f-4a99-bbfd-467cb343b863.png)
 
 ## Features
 This project is aimed to implement a Web Based ChatBot with the help of various Azure Services. This bot would help communicate in natural language with the users and help them answer the various frequent questions that students have automatically. 
@@ -17,7 +17,7 @@ Also, since I am a visually impaired person, I have focused on making the soluti
 -	Take away the pressure from the human help desk representatives
 -	Implemented Text to Speech on the website to make it accessible for all users.
 -	Implemented a button to read aloud the website contents at relevant positions. 
-![image](https://user-images.githubusercontent.com/66109641/146577007-808d9ba1-e51d-4ac7-8e44-170619bb068d.png)
+![Speaker Icon](https://user-images.githubusercontent.com/66109641/146577007-808d9ba1-e51d-4ac7-8e44-170619bb068d.png)
 ---
 ## Technology Used
 I have used various Azure Cognitive Services for building my project prototype. 
@@ -40,3 +40,5 @@ HTML is the latest and most enhanced version of HTML.
 Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. 
 ## Architecture Diagram
 ![Architecture Diagram](https://user-images.githubusercontent.com/66109641/148674922-e4a3dc1d-a79f-4a55-b79a-6dd762b94b65.png)
+## Project Demo
+<iframe width="684" height="385" src="https://www.youtube.com/embed/V76UrW3z9e4" title="Project Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
