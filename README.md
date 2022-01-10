@@ -41,4 +41,4 @@ Cascading Style Sheets is a style sheet language used for describing the present
 ## Architecture Diagram
 ![Architecture Diagram](https://user-images.githubusercontent.com/66109641/148674922-e4a3dc1d-a79f-4a55-b79a-6dd762b94b65.png)
 ## Project Demo
-<iframe width="684" height="385" src="https://www.youtube.com/embed/V76UrW3z9e4" title="Project Demo Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Project Demo](https://img.youtube.com/vi/V76UrW3z9e4/0.jpg)](https://www.youtube.com/watch?v=V76UrW3z9e4)
